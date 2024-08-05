@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm C0Llins</h1>
-<h3 align="center">A passionate queer indie developer from Thailand studying Data Science.</h3>
+<h3 align="center">A passionate 🌈queer🌈 indie developer from Thailand studying Data Science.</h3>
 
 - 🔭 I’m currently working on **LavaCast**
 
